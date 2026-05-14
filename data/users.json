@@ -1,0 +1,17 @@
+[
+    {
+        "username": "ali",
+        "password_hash": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
+        "full_name": "Ali Valiyev"
+    },
+    {
+        "username": "farah",
+        "password_hash": "81dc9bdb52d04dc20036dbd8313ed055",
+        "full_name": "Farah Qodirova"
+    },
+    {
+        "username": "admin",
+        "password_hash": "8d969eef6ecad3c29a3a873fb1d29bfb",
+        "full_name": "Administrator"
+    }
+]
